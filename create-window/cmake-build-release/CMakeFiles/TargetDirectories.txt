@@ -1,3 +1,0 @@
-/home/phoward/Repos/LearnOpenGL/create-window/cmake-build-release/CMakeFiles/edit_cache.dir
-/home/phoward/Repos/LearnOpenGL/create-window/cmake-build-release/CMakeFiles/rebuild_cache.dir
-/home/phoward/Repos/LearnOpenGL/create-window/cmake-build-release/CMakeFiles/create_window.dir
