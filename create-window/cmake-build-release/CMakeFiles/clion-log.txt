@@ -1,0 +1,4 @@
+/snap/clion/114/bin/cmake/linux/bin/cmake -DCMAKE_BUILD_TYPE=Release -DCMAKE_TOOLCHAIN_FILE=/home/phoward/Repos/vcpkg/scripts/buildsystems/vcpkg.cmake -G "CodeBlocks - Unix Makefiles" /home/phoward/Repos/LearnOpenGL/create-window
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/phoward/Repos/LearnOpenGL/create-window/cmake-build-release
