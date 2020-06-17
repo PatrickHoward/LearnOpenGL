@@ -30,3 +30,8 @@
 *.exe
 *.out
 *.app
+
+# Intellij IDEA Directories
+cmake-build-debug/
+cmake-build-release/
+.idea/
